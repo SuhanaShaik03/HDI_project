@@ -193,8 +193,13 @@ https://drive.google.com/file/d/1Px5ec6hmMCRiJotMJXiRjVGpo-w2tOnM/view
 
 ## 👩‍💻 Team Members
 
-- **Anaparthi Laxmi Santhoshi**
-- **Pentakota Snehitha**
+- ## 👩‍💻 Team Members
+
+- Shaik Suhana (Team Lead)
+- Prasuna Basireddy
+- Ramya Kosuri
+- Amburi Venkata Bhavya Sri
+- Revathi Poludasu
 
 ---
 
